@@ -53,5 +53,12 @@ services:
       SPRING_DATASOURCE_PASSWORD: postgres
     depends_on:
       - postgres
+  
+  frontend:
+    image: insofad_frontend
+    build: .
+    ports:
+      - "4200:4200"
+    
 
 
