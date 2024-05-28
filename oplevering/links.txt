@@ -1,0 +1,4 @@
+Link naar Gitlab 1: https://gitlab.inf-hsleiden.nl/JordydeVries/insofad_frontend
+Link naar Gitlab 2: https://gitlab.inf-hsleiden.nl/JordydeVries/insofad_backend
+Link naar Gitlab 3: https://gitlab.inf-hsleiden.nl/JordydeVries/docker_and_docs
+Link naar Tiaga: https://tree.taiga.io/project/jordydevrix-insofad_s1151166/kanban
